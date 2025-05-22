@@ -1,4 +1,4 @@
-![logo](https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3)
+![logo]("https://ibb.co/Q70bjG3R")
 
 # Cloud Storage API Documentation
 

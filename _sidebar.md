@@ -1,27 +1,30 @@
-- ** [Home](./#cloud-storage-api-documentation)**
-- ** [Getting Started](./#getting-started)**
-- ** [Authentication](./#authentication)**
+- **[Home](./#cloud-storage-api-documentation)**
+- **[Getting Started](./#getting-started)**
+- **[Authentication](./#authentication)**
   - [API Key Authentication](./#api-key-authentication)
   - [OAuth 2.0 Flow](./#oauth-20-flow)
-- ** [API Reference](./#api-endpoints)**
-  - ** [Files](./#files)**
+
+- **[API REFERENCE](./#api-endpoints)**
+  - **[FILES](./#files)**
     - [Upload File](./#upload-file)
     - [Get File Info](./#get-file-information)
     - [Download File](./#download-file)
     - [List Files](./#list-files)
     - [Update File](./#update-file)
     - [Delete File](./#delete-file)
-  - **  [Folders](./#folders)**
+  - **[FOLDERS](./#folders)**
     - [Create Folder](./#create-folder)
     - [List Contents](./#list-folder-contents)
-  - ** [Sharing](./#sharing)**
+  - **[SHARING](./#sharing)**
     - [Create Share Link](./#create-share-link)
     - [Get Share Info](./#get-share-information)
-  - ** [Account](./#account)**
-- ** [Code Examples](./#code-examples)**
+  - **[ACCOUNT](./#account)**
+
+- **[CODE EXAMPLES](./#code-examples)**
   - [JavaScript/Node.js](./#javascriptnodejs)
   - [Python](./#python)
   - [cURL Examples](./#curl-examples)
-- ** [Webhooks](./#webhooks)**
-- ** [SDKs & Libraries](./#sdks-and-libraries)**
-- ** [Support](./#support)**
+
+- **[WEBHOOKS](./#webhooks)**
+- **[SDKS & LIBRARIES](./#sdks-and-libraries)**
+- **[SUPPORT](./#support)**

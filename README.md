@@ -755,15 +755,4 @@ POST /webhooks
 - API key authentication
 - Account management
 
-## Support
 
-- **Documentation**: https://docs.cloudstorage.com
-- **Support Email**: api-support@cloudstorage.com
-- **Status Page**: https://status.cloudstorage.com
-- **Community Forum**: https://community.cloudstorage.com
-
-## Legal
-
-- **Terms of Service**: https://cloudstorage.com/terms
-- **Privacy Policy**: https://cloudstorage.com/privacy
-- **API Terms**: https://cloudstorage.com/api-terms

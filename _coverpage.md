@@ -1,4 +1,4 @@
-![logo](https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3)
+![logo](https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3)
 
 # Cloud Storage API Documentation
 
@@ -14,4 +14,4 @@
 
 [Get Started](./#getting-started)
 [View API Reference](./#api-endpoints)
-[GitHub Repository](https://github.com/YOUR_USERNAME/api-documentation)
+[GitHub Repository](https://github.com/Olamideod/api-documentation)

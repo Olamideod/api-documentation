@@ -43,5 +43,4 @@
 
   <li><strong><a href="./#/?id=webhooks">WEBHOOKS</a></strong></li>
   <li><strong><a href="./#/?id=sdks-and-libraries">SDKS & LIBRARIES</a></strong></li>
-  <li><strong><a href="./#/?id=support">SUPPORT</a></strong></li>
 </ul>

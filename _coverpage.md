@@ -1,4 +1,4 @@
-![logo]("https://ibb.co/Q70bjG3R")
+![logo]("[https://ibb.co/Q70bjG3R](https://i.ibb.co/Kcn0zHpk/woman-scrolling-laptop.jpg)")
 
 # Cloud Storage API Documentation
 

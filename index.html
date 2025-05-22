@@ -14,7 +14,7 @@
   <style>
     :root {
       --theme-color: #000000; /* Changed to black */
-    }
+  }
     .app-name-link img {
       width: 120px;
     }
@@ -33,19 +33,17 @@
       overflow: auto;
     }
     .copy-code-button {
-      background: #000000 !important; /* Copy button color */
+      background: #0366d6 !important;
       color: white !important;
     }
   </style>
 </head>
 <body>
   <div id="app">Loading...</div>
-
-  <!-- Docsify Configuration -->
   <script>
     window.$docsify = {
       name: 'Cloud Storage API',
-      repo: 'https://github.com/Olamideod/api-documentation',
+      repo: 'https://github.com/YOUR_USERNAME/api-documentation',
       loadSidebar: true,
       coverpage: true,
       onlyCover: false,
@@ -70,20 +68,15 @@
         crossChapter: true,
         crossChapterText: true,
       },
-      themeColor: '#000000' // Updated theme color to black
+      themeColor: '#0366d6'
     }
   </script>
-
-  <!-- Docsify Scripts -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
-
-  <!-- PrismJS Syntax Highlighting -->
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-javascript.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-json.min.js"></script>
 </body>
-</html>
